@@ -6,7 +6,11 @@
 
     <groupId>com.zx</groupId>
     <artifactId>test-github</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>github</module>
+    </modules>
 
 
 </project>
